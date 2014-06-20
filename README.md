@@ -27,5 +27,5 @@
 4.2 Replace activity number into dself explanatory descriptive names
 
 ##5. Save the final data into a text file
-5.1 Saved a text file called "newTidyData.txt" using write.csv funtion
+5.1 Saved a text file called "newTidyData.txt" using write.csv function
   
