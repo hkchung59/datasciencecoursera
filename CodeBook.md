@@ -35,3 +35,4 @@
 ### Replacing activity numbers into more self explanatory names
 1. Used labelActivity info to relate into numbers and names in the newTidyData set
 2. Save newTidyData set into a text file called newTidyData.txt using write.csv function
+3. It is 180 rows x 66 column file except heading
