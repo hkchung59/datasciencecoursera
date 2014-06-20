@@ -1,8 +1,8 @@
 1. Script running process for merging train and test data
 
-*1.1 setting working directory in the local d:\\Getting and Cleaning Data\\
-*1.2 Features.txt file conversion to get the list of features to use
-*1.3 Activity_labels file conversion to know what activities to be assigned using sep="\t"
+1.1 setting working directory in the local d:\\Getting and Cleaning Data\\
+1.2 Features.txt file conversion to get the list of features to use
+1.3 Activity_labels file conversion to know what activities to be assigned using sep="\t"
 1.4 x_test,y_test,subject_test file read and assign associated column name to y_test and subject_test each "activityName"
       and "subjNum" respectively
 1.5 Combined the above three file(1.4) into one as xysubjTestBinded
