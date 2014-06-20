@@ -1,5 +1,4 @@
-Codes, Variables, Functions Used in the run_analysis.R
-==================
+## Codes, Variables, Functions Used in the run_analysis.R
 
 ###Initial Setting Works
 1. Default working directory setting in d: local disk under Getting and Cleaning Data directory
